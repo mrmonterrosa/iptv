@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/v8Iu8EK.png" tvg-country="CO" tvg-url="" group-title="",Amordiscos TV
-https://5b464b69d264e.streamlock.net/live/smil:Televitrola.smil/chunklist_w454440596_b1048000_slES.m3u8
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7YB94Hf.png" tvg-country="CO" tvg-url="" group-title="Religious",Avivamiento
-https://s3.abntelevision.com/avivamiento/avivamiento/playlist.m3u8
+https://s2.abntelevision.com/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sRZN7Tn.png" tvg-country="CO" tvg-url="" group-title="",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/chunklist_w1780377540.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sRZN7Tn.png" tvg-country="CO" tvg-url="" group-title="",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2BpgO62.png" tvg-country="CO" tvg-url="" group-title="",Canal 8 Teleenvigado
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/rfT0k95/win-sports.png" tvg-country="Colombia" tvg-url="" group-title="WinSport",WinSport
+http://45.86.190.63:25461/jwvw1eMfTb/Cpksag6s8s/27261?play_token=8X94HjB3Fd&token=TURYAhZYEAwSUVZQXVQGVwVXVAQCD1IBBAYGBlUMUFQOVwNVAQgGBQNGTxBLF0AGVA9uD1IbCQQGAVIEShsTFlMUbwoBEggUAVVUCwlXAEEZQEUPW1wRDAAFVwVVAVZUA1McQRVZVhQKRlAHDVALQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAINRw9ZThMFWUxdQkNKRg9EeilHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJTRxwQW1EcPFFXDVwGVhZYCVhKEQwTAkYZRFQJC18SXxE6QFtSEl5BAQ1XC1MXHw==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hlrdeds.png" tvg-country="CO" tvg-url="" group-title="",Canal Capital HD
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" tvg-country="CO" tvg-url="" group-title="",Canal CNC Medellin
