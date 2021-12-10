@@ -7,14 +7,10 @@ https://s2.abntelevision.com/avivamientohd/avivamientohd/playlist.m3u8
 http://vbox.cehis.net/live-calitv/calitv1/chunklist_w1780377540.m3u8
 #EXTINF:-1 tvg-id="Cali_TV_HD" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sRZN7Tn.png" tvg-country="Colombia" tvg-url="" group-title="",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-id="WinSport" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/rfT0k95/win-sports.png" tvg-country="Colombia" tvg-url="" group-title="WinSport",WinSport
-http://45.86.190.63:25461/jwvw1eMfTb/Cpksag6s8s/27261?play_token=8X94HjB3Fd&token=TURYAhZYEAwSUVZQXVQGVwVXVAQCD1IBBAYGBlUMUFQOVwNVAQgGBQNGTxBLF0AGVA9uD1IbCQQGAVIEShsTFlMUbwoBEggUAVVUCwlXAEEZQEUPW1wRDAAFVwVVAVZUA1McQRVZVhQKRlAHDVALQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAINRw9ZThMFWUxdQkNKRg9EeilHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJTRxwQW1EcPFFXDVwGVhZYCVhKEQwTAkYZRFQJC18SXxE6QFtSEl5BAQ1XC1MXHw==
 #EXTINF:-1 tvg-id="Canal_Capital_HD" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hlrdeds.png" tvg-country="Colombia" tvg-url="" group-title="",Canal Capital HD
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-id="Canal_CNC_Medellin" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" tvg-country="Colombia" tvg-url="" group-title="",Canal CNC Medellin
 http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal_Doce" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/W3rlI3P.png" tvg-country="Colombia" tvg-url="" group-title="",Canal Doce
-https://playback2.akamaized.net/streams/27724665_8376416_lsijo0d6x4x3hywho7y_1/master.m3u8?dw=14400&hdnts=exp=1639106194~acl=/streams/27724665_8376416_lsijo0d6x4x3hywho7y_1/master.m3u8*~hmac=2414631d6506f6f33de320020798c4dbee8d2b9148049c3128e962719dcfb87c
 #EXTINF:-1 tvg-id="Canal_Trece" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ndR9t9o.jpg" tvg-country="Colombia" tvg-url="" group-title="",Canal Trece
 https://canaltreceplus-live.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Cosmovision" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/S3oXZHo.png" tvg-country="Colombia" tvg-url="" group-title="",Cosmovision
@@ -29,35 +25,17 @@ https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="Suram" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6d2fOjq.png" tvg-country="Colombia" tvg-url="" group-title="",Suram
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tele_Medellin" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/29DQNPy.png" tvg-country="Colombia" tvg-url="" group-title="",Tele Medellin
-https://liveingesta118.cdnmedia.tv//telemedellintvlive/smil:dvrlive.smil/chunklist_b825000_DVR.m3u8
-#EXTINF:-1 tvg-id="Teleamiga" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XDNEvrG.png" tvg-country="Colombia" tvg-url="" group-title="",Teleamiga
-https://liveingesta118.cdnmedia.tv//teleamigatvlive/smil:dvrlive.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="Teleantiquia" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eoxHmyO.jpg" tvg-country="Colombia" tvg-url="" group-title="",Teleantiquia
-https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive.smil/chunklist_b2593000_DVR.m3u8
-#EXTINF:-1 tvg-id="Telecafe" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r4wZZb4.jpg" tvg-country="Colombia" tvg-url="" group-title="",Telecafe
-https://liveingesta118.cdnmedia.tv//telecafelive/smil:dvrlive.smil/chunklist_b2343000_DVR.m3u8
-#EXTINF:-1 tvg-id="Telecaribe" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i5wyEor.png" tvg-country="Colombia" tvg-url="" group-title="",Telecaribe
-https://dcs-live.mp.lura.live/server/play/d3zrDTGrqagTNWJGr/manifest.m3u8?encp=An56tHIhUB3Xh89HM_zN3g:9Qhf3kv93tmAsEs7WVbD5ywoVgHcmuq2SnJnm4pHp6nggToPeAzILMuleWGn6jHOsgcE-kjK4qHqXg8xB8G8vfvi_s0C4GePqhlKF-45lM957_eGDdtrqH9BqIzJTmBL0YqWvjBaTsekJRNnW53n1D_oNMYiobwgMRxoZfc9EdROZMWogbr3oXi-Z_yhnqTmLvcYu2Y79GUQieIpnZk6JXKzUzxEHnB1Q4XPgfklssCYhEh_IjePYF2oQZdozXADOw9Ei4dt0d_FD5Oo6Pg7XIQRfKiRXJc2rJbAwY-yULCl4x7_Sokc1ICz3V0zbs5IyjnveJ6ByfkrZquk1ydieeWLSnujFdSsr7ZcZDuVD07T6raCf1EcpMLzSlzsYrySWvHP1xx93tqPHZnvNZ_4Dv3KDzu4JiniymFLk0zVaT6ekVneZ-AIS4PlxWJDaxxcU3qBpr0TGc0QHhOl1Gto4W-cUhSk52F9nGQFBy-WIT6XfdKadvTlLJPJY95j5f5aQBARq1CmSDPWlQd9zTIphRpcQW4-PhV1lzCbdqIWFHyequ7ZDuih4u4XZ1aX6xPKTgfkW3mmJFpCWr2V1fvg1m4nShc4hwRo3GkwLZecKsiTrxJ7wGa4TmIM_6dcGA98&anvtrid=7d164e280b4302260ac2a16ecd159699&anvauth=tb=0~te=1639107561~sgn=a08576a3c778ef5893c845783b48b1736e698f5dbb5ce86e3fd2dc9ab99ebd67&t=1639107471
-#EXTINF:-1 tvg-id="Telecaribe_Deportes" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7qSbS53.png" tvg-country="Colombia" tvg-url="" group-title="Sport",Telecaribe Deportes
-https://dcs-live.mp.lura.live/server/play/qRNQEfZ4Rd9snRxLQ/manifest.m3u8?encp=I43rEvPmdzadnf-BCi1wFw:zr9ngXLw6YZGFhwACVkG-RVKE-5vG-6oHjqEbpw42VoNNK-3HJoVR2E_Ryy3HShhz8J_9x9gmuXu3fDWKZwgXB9SmU1sAXTQb5JJZrZE3spbJMKB5DSduOTJK4l4nefpQ_lXK9CnKPaG2OXkU9Na7Ybv0lgBQlSt4Tyni3k2DdlviJ04IFJlXHQBn28f4xP1WykVrMLJ5oDPRQQocu-mLLtGc5f3yFtT0Hrl7UlUfUrRlG1L1g2osVemBwqKp-FtwzKAw4QnhUAg9BdHsSvxc0VESG8nv0ErXFNWpMPDiQmQRtuWv2J8UiDh9OD44M8iCBscRcxA6_5VGaBETJlkWw3N2LzboBkJ3yiZSWK2fd1GsxI3E3x8YEr404FhskfvcJHg3vD7RnNEHuwgrQJ0BrObzyiwuY4AGubSb9oEVgsIIY3J3wNkjR3COSAoxNoeRbHoFUcevRueiWOXReqJLb8pGQmk6bUN3SiU81Mxgro8n12xlZiyMTVjNvuaTny7l7kHB1aRB28TT3QEKu5Z0SfvTr7oBseKvbJXI3Ms72KYl0rcHCPxCT3RKKr2gS2FeWxjaDfu_G9Nv8J_b4n182Hqy1YHybzJobLTxFz_niR-dGUyomO-GKe-ZHhNI64P&anvtrid=2c926b9fb1286fb31e1f901ac6dd67b2&anvauth=tb=0~te=1639107677~sgn=a4b6bfdbbb0f95dd9c6ac9f9bdf8e8aa1f8fa8608793df281520eee29d69c038&t=1639107587
 #EXTINF:-1 tvg-id="Teleislas" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4xNgb8H.png" tvg-country="Colombia" tvg-url="" group-title="",Teleislas
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemusica" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aBPSij2.png" tvg-country="Colombia" tvg-url="" group-title="Music",Telemusica
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Telepacifico" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/h7osX79.png" tvg-country="Colombia" tvg-url="" group-title="",Telepacifico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Televid" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eg47wmv.jpg" tvg-country="Colombia" tvg-url="" group-title="",Televid
-https://playback2.akamaized.net/streams/28238881_8574038_lsiirknoz7hch8w8l4c_1/master.m3u8?dw=14400&hdnts=exp=1639108101~acl=/streams/28238881_8574038_lsiirknoz7hch8w8l4c_1/master.m3u8*~hmac=8885b55aabc051e8ade22618ef9876dd9bb4be8d0147ba4dbea9d6815ba7207d
 #EXTINF:-1 tvg-id="UAO_Play" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kady79t.jpg" tvg-country="Colombia" tvg-url="" group-title="",UAO Play
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8
 #EXTINF:-1 tvg-id="90_Digital" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kady79t.jpg" tvg-country="Colombia" tvg-url="" group-title="",90 Digital
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8
 #EXTINF:-1 tvg-id="Caracol_Ahora" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/2qxxKZP/caracol.png" tvg-country="Colombia" tvg-url="" group-title="",Caracol Ahora
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=FzD2Fr3KAkIMJqPXK9G8KeIusBAqdcB9&sid=kWrJzlsi4vGPgeXBP37NXodBhZtQg2kj&pid=3BnfltlewnG4IbpjHcjuXOMGC5DN62U4&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=809x455&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-id="Senal_Colombia" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/7kpVdF3/senal-colombia.png" tvg-country="Colombia" tvg-url="" group-title="",Señal Colombia
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1 tvg-id="RCN" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/ky4Nvhy/Rcn.png" tvg-country="Colombia" tvg-url="" group-title="",RCN
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZedBC_S9HxRGJ3LY5bqWDww)/dm/3/x7vyv0z/s/live-1.m3u8
-#EXTINF:-1 tvg-id="CMB" tvg-name="" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/cmb-television-2842.jpg" tvg-country="Colombia" tvg-url="" group-title="",CMB TELEVISIÓN
-https://usher.ttvnw.net/api/channel/hls/cmbtvima.m3u8?allow_source=true&fast_bread=true&p=9449917&play_session_id=4a4d5fd68e1f6492461d8d4e1d1f8b2b&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=5d2622a179bf57c7360c223f4f8e98f6e4ff1763&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22cmbtvima%22%2C%22channel_id%22%3A742555832%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%220qMp5hQ7QleJsT1ZaKySOkWhXzcz6zLw%22%2C%22expires%22%3A1639109885%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.29.102.180%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.7.0
