@@ -7,17 +7,17 @@ https://s2.abntelevision.com/avivamientohd/avivamientohd/playlist.m3u8
 http://vbox.cehis.net/live-calitv/calitv1/chunklist_w1780377540.m3u8
 #EXTINF:-1 tvg-id="Cali_TV_HD" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sRZN7Tn.png" tvg-country="CO" tvg-url="" group-title="",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/rfT0k95/win-sports.png" tvg-country="Colombia" tvg-url="" group-title="WinSport",WinSport
+#EXTINF:-1 tvg-id="WinSport" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/rfT0k95/win-sports.png" tvg-country="Colombia" tvg-url="" group-title="WinSport",WinSport
 http://45.86.190.63:25461/jwvw1eMfTb/Cpksag6s8s/27261?play_token=8X94HjB3Fd&token=TURYAhZYEAwSUVZQXVQGVwVXVAQCD1IBBAYGBlUMUFQOVwNVAQgGBQNGTxBLF0AGVA9uD1IbCQQGAVIEShsTFlMUbwoBEggUAVVUCwlXAEEZQEUPW1wRDAAFVwVVAVZUA1McQRVZVhQKRlAHDVALQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAINRw9ZThMFWUxdQkNKRg9EeilHGkRVGxFVXEVZCw0QAkFGEBdOEw9FZkFTQkcWUAdUAxcUXBJTRxwQW1EcPFFXDVwGVhZYCVhKEQwTAkYZRFQJC18SXxE6QFtSEl5BAQ1XC1MXHw==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hlrdeds.png" tvg-country="CO" tvg-url="" group-title="",Canal Capital HD
+#EXTINF:-1 tvg-id="Canal_Capital_HD" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hlrdeds.png" tvg-country="CO" tvg-url="" group-title="",Canal Capital HD
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" tvg-country="CO" tvg-url="" group-title="",Canal CNC Medellin
+#EXTINF:-1 tvg-id="Canal_CNC_Medellin" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" tvg-country="CO" tvg-url="" group-title="",Canal CNC Medellin
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/W3rlI3P.png" tvg-country="CO" tvg-url="" group-title="",Canal Doce
+#EXTINF:-1 tvg-id="Canal_Doce" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/W3rlI3P.png" tvg-country="CO" tvg-url="" group-title="",Canal Doce
 http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ndR9t9o.jpg" tvg-country="CO" tvg-url="" group-title="",Canal Trece
+#EXTINF:-1 tvg-id="Canal_Trece" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ndR9t9o.jpg" tvg-country="CO" tvg-url="" group-title="",Canal Trece
 https://canaltrece-col.cdn.online1.video/canaltrece-live/smil:canal13.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ndR9t9o.jpg" tvg-country="CO" tvg-url="" group-title="",Canal Trece
+#EXTINF:-1 tvg-id="Canal_Trece_HD" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ndR9t9o.jpg" tvg-country="CO" tvg-url="" group-title="",Canal Trece
 https://canaltrece-col.cdn.online1.video/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/S3oXZHo.png" tvg-country="CO" tvg-url="" group-title="",Cosmovision
 https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8
