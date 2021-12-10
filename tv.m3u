@@ -36,6 +36,6 @@ https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3
 #EXTINF:-1 tvg-id="90_Digital" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kady79t.jpg" tvg-country="Colombia" tvg-url="" group-title="",90 Digital
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8
 #EXTINF:-1 tvg-id="Caracol_Ahora" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/2qxxKZP/caracol.png" tvg-country="Colombia" tvg-url="" group-title="",Caracol Ahora
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=FzD2Fr3KAkIMJqPXK9G8KeIusBAqdcB9&sid=kWrJzlsi4vGPgeXBP37NXodBhZtQg2kj&pid=3BnfltlewnG4IbpjHcjuXOMGC5DN62U4&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=809x455&without_cookies=false&dnt=true
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Senal_Colombia" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/7kpVdF3/senal-colombia.png" tvg-country="Colombia" tvg-url="" group-title="",Señal Colombia
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
