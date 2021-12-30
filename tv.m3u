@@ -37,3 +37,5 @@ https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8
 #EXTINF:-1 tvg-id="Senal_Colombia" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/7kpVdF3/senal-colombia.png" tvg-country="Colombia" tvg-url="" group-title="Cultura",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/7kpVdF3/senal-colombia.png" tvg-country="Colombia" tvg-url="" group-title="Cultura",MTV
+https://edge4-sl.cvattv.com.ar/live/c2live/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd
