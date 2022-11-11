@@ -39,7 +39,7 @@ https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesur" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" tvg-country="Venezuela" tvg-url="" group-title="Noticias",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-id="DW_ESPANOL" tvg-name="" tvg-language="Spanish" tvg-logo="https://televisionlibre.net/img/logo_canal/DW.png" tvg-country="España" tvg-url="" group-title="Noticias",DW ESPAÑOL
+#EXTINF:-1 tvg-id="DW_ESPANOL" tvg-name="" tvg-language="Spanish" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" tvg-country="España" tvg-url="" group-title="Noticias",DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="RT_ESPANOL" tvg-name="" tvg-language="Spanish" tvg-logo="https://televisionlibre.net/img/logo_canal/RT.png" tvg-country="España" tvg-url="" group-title="Noticias",RT ESPAÑOL
+#EXTINF:-1 tvg-id="RT_ESPANOL" tvg-name="" tvg-language="Spanish" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6c1d12de8005832b37a_rt.jpeg" tvg-country="España" tvg-url="" group-title="Noticias",RT ESPAÑOL
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZeRI5B03_hrr7_j6gURQt3s)/dm/3/x7vyv0z/s/live-0.m3u8#cell=lnyc
