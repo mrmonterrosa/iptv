@@ -18,7 +18,7 @@ https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1 tvg-id="CTV_Barranquilla" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/phHdw4Y.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",CTV Barranquilla
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1206393675.m3u8
 #EXTINF:-1 tvg-id="Melody_Channel_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2WVxg8A.jpg" tvg-country="Colombia" tvg-url="" group-title="Musica",Melody Channel TV
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
+https://canal.mediaserver.com.co:8088/live/MelodyChannel.m3u8
 #EXTINF:-1 tvg-id="Multicanal_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FMweXut.jpg" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Multicanal TV
 https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="Mundo_Mas" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CREs19T.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Mundo Mas
