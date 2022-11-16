@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Amordiscos_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/v8Iu8EK.png" tvg-country="Colombia" tvg-url="" group-title="Musica",Amordiscos TV
-https://edge-live17-sl.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
+https://s01.castamp.com/live/r1ppcmsdfasd/chunklist.m3u8
 #EXTINF:-1 tvg-id="Avivamiento" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7YB94Hf.png" tvg-country="Colombia" tvg-url="" group-title="Religioso",Avivamiento
 https://s2.abntelevision.com/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 tvg-id="Cali_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sRZN7Tn.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Cali TV
@@ -20,7 +20,7 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1206393675.m
 #EXTINF:-1 tvg-id="Melody_Channel_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://melodychannel.tv/wp-content/uploads/2022/08/cropped-melodychannel-tv.png" tvg-country="Colombia" tvg-url="" group-title="Musica",Melody Channel TV
 https://canal.mediaserver.com.co:8088/live/MelodyChannel.m3u8?hls_ctx=5363v2e4
 #EXTINF:-1 tvg-id="Caracol" tvg-name="" tvg-language="Spanish" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/f6eaa77/2147483647/strip/true/crop/1130x1130+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fb9%2Fe9%2Fa9e8d7454e9291e948d0baea01c5%2Fgroup-6-2x.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Caracol
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+https://hlsfree.live:3619/multi_live/play_src.m3u8
 #EXTINF:-1 tvg-id="Mundo_Mas" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CREs19T.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Mundo Mas
 https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/Cp4FeyF-CZAZNpAaEGZTTCFwnjZiv80B8AWPTiU_JoJx86Ce1QDeYEzPJmrs7A2ggvily1hHxXuH4k2ALoWrDe-xDHo-Eql-QnsEsf7iidAXXI0dfhanvoUpmnSFhsemearJQMSVVa6iD63enTzxvYu36b-JdhbftGDYuqjNzAIcNVRUGSptTtZ_jM32-Jqx0fz-3q_iU19d-oQjKeTdUhSGaDRnXuZ1k28dpFmQZznCUqncwRn5MmAgBN1uK5XLPr1RUgEyDPVL1Yzdd-0ZUFQNFSOkrg2jk4Sc2DomMk30VBgsdiC9qf_fNAIre5k0mFxHAmTNBJ1JtppmcOgG4A9NIWzvF8rOY4h9NVo5T4FVIHQR7JjRm-VEzPctSeQoeS8guJNx4Rhx7adjXFS8Ji0-zM5msyHvtnN0iiGwzZKdynKwElrCNDuXkGi5p2iwfxgmcgjnYClv--XoCLJgqKwBqKpJlM5fxrnMFkvjlZUNlyfQJKm3cIU0rSnHd-1siQkaV2SUVQ31hCya-mUJPZbeOONKow0MlANUOQqOFN6yLq5sAOOuz7NZTYj3Y_zktH2eqzgC9t6W933NDfOiSKoHRn_zIfeSWhN0NjfKHnXFHMZB85Q3ISt83ZRkRZJMF0YgpiPZqFs4zon4Q_LcFZVyBslioqdblKOqifaqkLZAEr3c8de1lx-gtxifT8RojbQj78hrQ2AvAHJ7FOuoARLZDAjNNUNNVoXSmxjF_OZZpoeWTjG0_HBUaDpqXnApNqdIWZSWsyuRkfMGrHD-MK_ndgr4E5S4IgiYVR4cTZAN2EkVqjX27NfZL5z2KUgBPjGAF7bObrJLf3s5y9B_nwRhwwOzAlg3M7_RXWX7evaExgjx1-Y7ktmeDkNAvdWBfhoMcYBLz9zQ62mgLgf5IAEqCXVzLWVhc3QtMTDGAw.m3u8
 #EXTINF:-1 tvg-id="Suram" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6d2fOjq.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Suram
