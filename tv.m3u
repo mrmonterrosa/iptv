@@ -11,7 +11,7 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal_CNC_Medellin" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Canal CNC Medellin
 http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal_Trece" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ndR9t9o.jpg" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Canal Trece
+#EXTINF:-1 tvg-id="Canal_Trece" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/2560px-Canal_Trece_logo.svg.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Canal Trece
 https://canaltreceplus-live.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Cosmovision" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/S3oXZHo.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Cosmovision
 https://videohls2.cosmovision.tv/hls/sd.m3u8
@@ -25,17 +25,17 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/Cp4FeyF-CZAZNpAaEGZTTCFwnjZiv80B8AWPTiU_JoJx86Ce1QDeYEzPJmrs7A2ggvily1hHxXuH4k2ALoWrDe-xDHo-Eql-QnsEsf7iidAXXI0dfhanvoUpmnSFhsemearJQMSVVa6iD63enTzxvYu36b-JdhbftGDYuqjNzAIcNVRUGSptTtZ_jM32-Jqx0fz-3q_iU19d-oQjKeTdUhSGaDRnXuZ1k28dpFmQZznCUqncwRn5MmAgBN1uK5XLPr1RUgEyDPVL1Yzdd-0ZUFQNFSOkrg2jk4Sc2DomMk30VBgsdiC9qf_fNAIre5k0mFxHAmTNBJ1JtppmcOgG4A9NIWzvF8rOY4h9NVo5T4FVIHQR7JjRm-VEzPctSeQoeS8guJNx4Rhx7adjXFS8Ji0-zM5msyHvtnN0iiGwzZKdynKwElrCNDuXkGi5p2iwfxgmcgjnYClv--XoCLJgqKwBqKpJlM5fxrnMFkvjlZUNlyfQJKm3cIU0rSnHd-1siQkaV2SUVQ31hCya-mUJPZbeOONKow0MlANUOQqOFN6yLq5sAOOuz7NZTYj3Y_zktH2eqzgC9t6W933NDfOiSKoHRn_zIfeSWhN0NjfKHnXFHMZB85Q3ISt83ZRkRZJMF0YgpiPZqFs4zon4Q_LcFZVyBslioqdblKOqifaqkLZAEr3c8de1lx-gtxifT8RojbQj78hrQ2AvAHJ7FOuoARLZDAjNNUNNVoXSmxjF_OZZpoeWTjG0_HBUaDpqXnApNqdIWZSWsyuRkfMGrHD-MK_ndgr4E5S4IgiYVR4cTZAN2EkVqjX27NfZL5z2KUgBPjGAF7bObrJLf3s5y9B_nwRhwwOzAlg3M7_RXWX7evaExgjx1-Y7ktmeDkNAvdWBfhoMcYBLz9zQ62mgLgf5IAEqCXVzLWVhc3QtMTDGAw.m3u8
 #EXTINF:-1 tvg-id="Suram" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6d2fOjq.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Suram
 https://livetv.305streamhd.com:3111/multi_live/play.m3u8
-#EXTINF:-1 tvg-id="Teleislas" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4xNgb8H.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Teleislas
+#EXTINF:-1 tvg-id="Teleislas" tvg-name="" tvg-language="Spanish" tvg-logo="https://teleislas.com.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Teleislas
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemusica" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aBPSij2.png" tvg-country="Colombia" tvg-url="" group-title="Musica",Telemusica
 https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
 #EXTINF:-1 tvg-id="Telepacifico" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/h7osX79.png" tvg-country="Colombia" tvg-url="" group-title="",Telepacifico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="UAO_Play" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kady79t.jpg" tvg-country="Colombia" tvg-url="" group-title="",UAO Play
+#EXTINF:-1 tvg-id="UAO_Play" tvg-name="" tvg-language="Spanish" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/UAOPlay-TV-en-vivo-Online.png" tvg-country="Colombia" tvg-url="" group-title="",UAO Play
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8
-#EXTINF:-1 tvg-id="90_Digital" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kady79t.jpg" tvg-country="Colombia" tvg-url="" group-title="Noticias",90 Digital
+#EXTINF:-1 tvg-id="90_Digital" tvg-name="" tvg-language="Spanish" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/UAOPlay-TV-en-vivo-Online.png" tvg-country="Colombia" tvg-url="" group-title="Noticias",90 Digital
 https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8
-#EXTINF:-1 tvg-id="Senal_Colombia" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/7kpVdF3/senal-colombia.png" tvg-country="Colombia" tvg-url="" group-title="Cultura",Señal Colombia
+#EXTINF:-1 tvg-id="Senal_Colombia" tvg-name="" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-lFFrLCEOZL4/VNib88ifraI/AAAAAAAADoM/6fGCUE0KJCc/s1600/se%C3%B1al%2Bcolombia%2Bbola.png" tvg-country="Colombia" tvg-url="" group-title="Cultura",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesur" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" tvg-country="Venezuela" tvg-url="" group-title="Noticias",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
