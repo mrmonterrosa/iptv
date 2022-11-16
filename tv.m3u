@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Amordiscos_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/v8Iu8EK.png" tvg-country="Colombia" tvg-url="" group-title="Musica",Amordiscos TV
-https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
+https://edge-live17-sl.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd
 #EXTINF:-1 tvg-id="Avivamiento" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7YB94Hf.png" tvg-country="Colombia" tvg-url="" group-title="Religioso",Avivamiento
 https://s2.abntelevision.com/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 tvg-id="Cali_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sRZN7Tn.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Cali TV
