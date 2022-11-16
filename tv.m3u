@@ -42,7 +42,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-id="DW_ESPANOL" tvg-name="" tvg-language="Spanish" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" tvg-country="España" tvg-url="" group-title="Noticias",DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RT_ESPANOL" tvg-name="" tvg-language="Spanish" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6c1d12de8005832b37a_rt.jpeg" tvg-country="España" tvg-url="" group-title="Noticias",RT ESPAÑOL
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZeRI5B03_hrr7_j6gURQt3s)/dm/3/x7vyv0z/s/live-0.m3u8#cell=lnyc
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-id="TopLatino" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/fRvwQyY0/LOGO-TOP-LATINO-PNG-2017-500px.png" tvg-country="Perú" tvg-url="" group-title="Música",Top Latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latinotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Novelisima" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/hj2k27WK/novelisima.png" tvg-country="Venezuela" tvg-url="" group-title="Serie",Novelisima
