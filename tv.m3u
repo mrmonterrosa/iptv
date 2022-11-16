@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Amordiscos_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/v8Iu8EK.png" tvg-country="Colombia" tvg-url="" group-title="Musica",Amordiscos TV
-https://s01.castamp.com/live/r1ppcmsdfasd/chunklist.m3u8
-#EXTINF:-1 tvg-id="Avivamiento" tvg-name="" tvg-language="Spanish" tvg-logo="https://avivamiento.com/images/logo-200-px-alto.png" tvg-country="Colombia" tvg-url="" group-title="Religioso",Avivamiento
+https://stream.mediaserver.com.co:8088/live/canalamordiscos.m3u8
+#EXTINF:-1 tvg-id="Avivamiento" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/tCVz1z8j/abn.png" tvg-country="Colombia" tvg-url="" group-title="Religioso",Avivamiento
 https://s2.abntelevision.com/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 tvg-id="Cali_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sRZN7Tn.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/chunklist_w1780377540.m3u8
@@ -18,7 +18,7 @@ https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1 tvg-id="CTV_Barranquilla" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/phHdw4Y.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",CTV Barranquilla
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1206393675.m3u8
 #EXTINF:-1 tvg-id="Melody_Channel_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://melodychannel.tv/wp-content/uploads/2022/08/cropped-melodychannel-tv.png" tvg-country="Colombia" tvg-url="" group-title="Musica",Melody Channel TV
-https://canal.mediaserver.com.co:8088/live/MelodyChannel.m3u8?hls_ctx=5363v2e4
+https://stream.mediaserver.com.co:8088/live/MelodyChannel.m3u8
 #EXTINF:-1 tvg-id="Caracol" tvg-name="" tvg-language="Spanish" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/f6eaa77/2147483647/strip/true/crop/1130x1130+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fb9%2Fe9%2Fa9e8d7454e9291e948d0baea01c5%2Fgroup-6-2x.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-id="Mundo_Mas" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CREs19T.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Mundo Mas
