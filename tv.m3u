@@ -3,7 +3,7 @@
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Avivamiento" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/tCVz1z8j/abn.png" tvg-country="Colombia" tvg-url="" group-title="Religioso",Avivamiento
 https://s2.abntelevision.com/avivamientohd/avivamientohd/playlist.m3u8
-#EXTINF:-1 tvg-id="Cali_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/T3pkfDXy/extrematv.webp" tvg-country="Costa Rica" tvg-url="" group-title="Religion",Extrema TV
+#EXTINF:-1 tvg-id="Extrema_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/T3pkfDXy/extrematv.webp" tvg-country="Costa Rica" tvg-url="" group-title="Religion",Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Cali_TV_HD" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sRZN7Tn.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
