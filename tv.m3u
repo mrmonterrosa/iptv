@@ -17,7 +17,7 @@ https://canaltreceplus-live.logicideas.media/canaltreceplus-live/smil:live1plus.
 https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1 tvg-id="CTV_Barranquilla" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/phHdw4Y.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",CTV Barranquilla
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1206393675.m3u8
-#EXTINF:-1 tvg-id="CBN_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/ZKPKbW4L/cbn.png" tvg-country="Colombia" tvg-url="" group-title="Religión",CBN Español
+#EXTINF:-1 tvg-id="CBN_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/ZKPKbW4L/cbn.png" tvg-country="Estados Unidos" tvg-url="" group-title="Religión",CBN Español
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="Caracol" tvg-name="" tvg-language="Spanish" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/f6eaa77/2147483647/strip/true/crop/1130x1130+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fb9%2Fe9%2Fa9e8d7454e9291e948d0baea01c5%2Fgroup-6-2x.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
@@ -45,3 +45,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZeRI5B03_hrr7_j6gURQt3s)/dm/3/x7vyv0z/s/live-0.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="TopLatino" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/fRvwQyY0/LOGO-TOP-LATINO-PNG-2017-500px.png" tvg-country="Perú" tvg-url="" group-title="Música",Top Latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latinotv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Novelisima" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/hj2k27WK/novelisima.png" tvg-country="Venezuela" tvg-url="" group-title="Serie",Novelisima
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTINF:-1 tvg-id="Kanal_D" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/J4MTsz9q/Vive-Kanal-D.png" tvg-country="Estados Unidos" tvg-url="" group-title="Serie",Vive Kanal D
+https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Televen" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/8cp15rMv/televen.png" tvg-country="Venezuela" tvg-url="" group-title="Serie",Televen
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
+#EXTINF:-1 tvg-id="BeinSportXtra" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/NjdDKhXP/bein-sport-xtra.png" tvg-country="Katar" tvg-url="" group-title="Deporte",Bein Sports Xtra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
