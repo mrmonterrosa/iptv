@@ -43,5 +43,5 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RT_ESPANOL" tvg-name="" tvg-language="Spanish" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6c1d12de8005832b37a_rt.jpeg" tvg-country="España" tvg-url="" group-title="Noticias",RT ESPAÑOL
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZeRI5B03_hrr7_j6gURQt3s)/dm/3/x7vyv0z/s/live-0.m3u8#cell=lnyc
-#EXTINF:-1 tvg-id="RedMas" tvg-name="" tvg-language="Spanish" tvg-logo="https://redmas.com.co/image/layout_set_logo?img_id=522554&t=1668140405285" tvg-country="Colombia" tvg-url="" group-title="Noticias",Red+
+#EXTINF:-1 tvg-id="TopLatino" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/fRvwQyY0/LOGO-TOP-LATINO-PNG-2017-500px.png" tvg-country="Perú" tvg-url="" group-title="Música",Top Latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latinotv.stream/playlist.m3u8
