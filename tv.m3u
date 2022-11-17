@@ -27,8 +27,8 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 https://livetv.305streamhd.com:3111/multi_live/play.m3u8
 #EXTINF:-1 tvg-id="Teleislas" tvg-name="" tvg-language="Spanish" tvg-logo="https://teleislas.com.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Teleislas
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemusica" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aBPSij2.png" tvg-country="Colombia" tvg-url="" group-title="Musica",Telemusica
-https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
+#EXTINF:-1 tvg-id="TvExitos" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/hjR7V3MT/tvexitos.png" tvg-country="Republica Dominicana" tvg-url="" group-title="Música",TVExitos
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 #EXTINF:-1 tvg-id="Telepacifico" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/3rPg5pWf/Telepacifico.png" tvg-country="Colombia" tvg-url="" group-title="",Telepacifico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UAO_Play" tvg-name="" tvg-language="Spanish" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/UAOPlay-TV-en-vivo-Online.png" tvg-country="Colombia" tvg-url="" group-title="",UAO Play
