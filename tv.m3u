@@ -61,5 +61,5 @@ https://stream.ads.ottera.tv/cl/7f709939-7be5-437e-8229-06b51438936f/1280x720_30
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
 #EXTINF:-1 tvg-id="rcn" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/YSkmVHZ3/rcn.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",RCN
 https://s01.castamp.com/live/r1ppcmsdfasd/chunklist.m3u8?h=KKhVsUNGkRHNCTXFFGTYYw&e=1668826332&u=80536693ee8c2f94f353a45f30c5bc7b&d=201_244_251_215
-#EXTINF:-1 tvg-id="citytv" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/nVKXNzqQ/citytv.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",CityTv
+#EXTINF:-1 tvg-id="citytv" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/nVKXNzqQ/citytv.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",City Tv
 https://s01.castamp.com/live/r1ppcmsdfasd/chunklist.m3u8?h=KKhVsUNGkRHNCTXFFGTYYw&e=1668826332&u=80536693ee8c2f94f353a45f30c5bc7b&d=201_244_251_215
