@@ -55,8 +55,8 @@ https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-id="AZTV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/qRXyFRnR/aztv.png" tvg-country="España" tvg-url="" group-title="Anime",AZTV
 https://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RealMadridTv" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/ZRVFRnqQ/Real-Madrid-Tv.png" tvg-country="España" tvg-url="" group-title="Deportes",Real Madrid TV
-https://stream.ads.ottera.tv/cl/4a7ed220-f4bb-4f5c-9daa-1b8156875bab/1280x720_3000140_0_f.m3u8
+#EXTINF:-1 tvg-id="teleritmo" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/nrY89qR2/teleritmo.png" tvg-country="México" tvg-url="" group-title="Música",Tele Ritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="amordiscos" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/NFqjNcK7/amordiscos.png" tvg-country="Colombia" tvg-url="" group-title="Música",Amordiscos
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
 #EXTINF:-1 tvg-id="tvsalud" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/nhKfmhqh/tvsalud.png" tvg-country="Chile" tvg-url="" group-title="Cultura",TV Salud
