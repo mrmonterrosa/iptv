@@ -56,10 +56,10 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-id="AZTV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/qRXyFRnR/aztv.png" tvg-country="España" tvg-url="" group-title="Anime",AZTV
 https://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RealMadridTv" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/ZRVFRnqQ/Real-Madrid-Tv.png" tvg-country="España" tvg-url="" group-title="Deportes",Real Madrid TV
-https://stream.ads.ottera.tv/cl/7f709939-7be5-437e-8229-06b51438936f/1280x720_3000140_0_f.m3u8
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="amordiscos" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/NFqjNcK7/amordiscos.png" tvg-country="Colombia" tvg-url="" group-title="Música",Amordiscos
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
 #EXTINF:-1 tvg-id="tvsalud" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/nhKfmhqh/tvsalud.png" tvg-country="Chile" tvg-url="" group-title="Cultura",TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
-#EXTINF:-1 tvg-id="topcine" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/dVD6rWbN/TopCine.png" tvg-country="Colombia" tvg-url="" group-title="Peliculas",Top Cine
+#EXTINF:-1 tvg-id="topcine" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/dVD6rWbN/TopCine.png" tvg-country="Salvador" tvg-url="" group-title="Peliculas",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
