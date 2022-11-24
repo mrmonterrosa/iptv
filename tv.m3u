@@ -63,3 +63,9 @@ https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
 https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 #EXTINF:-1 tvg-id="topcine" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/dVD6rWbN/TopCine.png" tvg-country="Salvador" tvg-url="" group-title="Peliculas",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-id="acuariotv" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/L4xqNp2R/acuariotv.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Acuario Tv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canalacuario
+#EXTINF:-1 tvg-id="atntv" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/sgd3J6Qs/atntv.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",ATN Tv
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="atv" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/dtmJ4R8C/atv.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",ATN Colombia
+https://video.ejeserver.com/live/verteve.m3u8
