@@ -71,3 +71,5 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canalacua
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="atv" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/dtmJ4R8C/atv.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",ATN Colombia
 https://video.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1 tvg-id="ewtn" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/L8RRmZJd/ewtn.png" tvg-country="Roma" tvg-url="" group-title="Religión",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
