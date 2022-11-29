@@ -73,3 +73,5 @@ https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 https://video.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 tvg-id="ewtn" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/L8RRmZJd/ewtn.png" tvg-country="Roma" tvg-url="" group-title="Religión",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="tycsport" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/L8RRmZJd/ewtn.png" tvg-country="Roma" tvg-url="" group-title="Deporte",TyC Sport
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
