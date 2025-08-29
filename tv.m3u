@@ -44,11 +44,11 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-id="DW_ESPANOL" tvg-name="" tvg-language="Spanish" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" tvg-country="España" tvg-url="" group-title="Noticias",DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RetroPlus" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/7Y2cpZpM/retroplus.png" tvg-country="España" tvg-url="" group-title="Noticias",Retro Plus Tv 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TopLatino" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/fRvwQyY0/LOGO-TOP-LATINO-PNG-2017-500px.png" tvg-country="Perú" tvg-url="" group-title="Música",Top Latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Novelisima" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/hj2k27WK/novelisima.png" tvg-country="Venezuela" tvg-url="" group-title="Serie",Novelisima
-https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Kanal_D" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/J4MTsz9q/Vive-Kanal-D.png" tvg-country="Estados Unidos" tvg-url="" group-title="Serie",Vive Kanal D
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Televen" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/8cp15rMv/televen.png" tvg-country="Venezuela" tvg-url="" group-title="Serie",Televen
@@ -58,11 +58,11 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-id="AZTV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/qRXyFRnR/aztv.png" tvg-country="España" tvg-url="" group-title="Anime",AZTV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="teleritmo" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/nrY89qR2/teleritmo.png" tvg-country="México" tvg-url="" group-title="Música",Tele Ritmo
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="amordiscos" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/NFqjNcK7/amordiscos.png" tvg-country="Colombia" tvg-url="" group-title="Música",Amordiscos
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
 #EXTINF:-1 tvg-id="tvsalud" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/nhKfmhqh/tvsalud.png" tvg-country="Chile" tvg-url="" group-title="Cultura",TV Salud
-https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
+https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
 #EXTINF:-1 tvg-id="topcine" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/dVD6rWbN/TopCine.png" tvg-country="Salvador" tvg-url="" group-title="Peliculas",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="acuariotv" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/L4xqNp2R/acuariotv.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Acuario Tv
