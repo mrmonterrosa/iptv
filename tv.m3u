@@ -56,7 +56,7 @@ https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 #EXTINF:-1 tvg-id="BeinSportXtra" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/NjdDKhXP/bein-sport-xtra.png" tvg-country="Katar" tvg-url="" group-title="Deporte",Bein Sports Xtra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-id="AZTV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/qRXyFRnR/aztv.png" tvg-country="España" tvg-url="" group-title="Anime",AZTV
-https://azxtv.com/hls/stream.m3u8
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="teleritmo" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/nrY89qR2/teleritmo.png" tvg-country="México" tvg-url="" group-title="Música",Tele Ritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="amordiscos" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/NFqjNcK7/amordiscos.png" tvg-country="Colombia" tvg-url="" group-title="Música",Amordiscos
