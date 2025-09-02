@@ -8,13 +8,11 @@ https://s2.abntelevision.com/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 tvg-id="Extrema_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/T3pkfDXy/extrematv.webp" tvg-country="Costa Rica" tvg-url="" group-title="Religión",Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Cali_TV_HD" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sRZN7Tn.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Cali TV
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal_Capital_HD" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.canalcapital.gov.co/sites/default/files/logo-canal-2020d.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Canal Capital HD
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+https://live-hz-10.livepush.io/live_cdn/emEaBT1tXReBQwQF/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal_CNC_Medellin" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Canal CNC Medellin
-http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal_Trece" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/2560px-Canal_Trece_logo.svg.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Canal Trece
-https://canaltreceplus-live.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Cosmovision" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/S3oXZHo.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Cosmovision
 https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1 tvg-id="CTV_Barranquilla" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/phHdw4Y.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",CTV Barranquilla
@@ -22,9 +20,7 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1206393675.m
 #EXTINF:-1 tvg-id="CBN_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/ZKPKbW4L/cbn.png" tvg-country="Estados Unidos" tvg-url="" group-title="Religión",CBN Español
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="Caracol" tvg-name="" tvg-language="Spanish" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/f6eaa77/2147483647/strip/true/crop/1130x1130+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fb9%2Fe9%2Fa9e8d7454e9291e948d0baea01c5%2Fgroup-6-2x.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Caracol
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=439OolNUAUnAfND9K2hMLlRZyovBoVO8&sid=drcFelAWt4Ls8TR2bm8cUNweEFRjELxO&pid=nkrCA4lDzQXX4Z0SRcpCwxB8xC5Y21Mi&pid_dvr=1FhGwhhYvKTtSO40kw8rYOuO89El7s7e&an=screen&at=web-app&av=v6.0.191&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=922x518&without_cookies=false&listenerid=&dnt=true&access_token=fiFytzfnqhhsFaxJAre7jxTad4xHmxTKhMvbeIWJrIRkuWhDVEuFhS2zDpDq71W3H8pF5G9SKja
-#EXTINF:-1 tvg-id="MOVIE_FE" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/tg6BwZKh/movie-fe.png" tvg-country="Venezuela" tvg-url="" group-title="Religión",Movie Fe
-https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+https://co-e3-p-e-za1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/08cbb254-b9c4-4acd-a19b-0e983f67f2de:MRN2/variant/48215209b486b06c621f95db82dea5fe/bandwidth/2402400.m3u8
 #EXTINF:-1 tvg-id="Suram" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6d2fOjq.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Suram
 https://livetv.305streamhd.com:3111/multi_live/play.m3u8
 #EXTINF:-1 tvg-id="Teleislas" tvg-name="" tvg-language="Spanish" tvg-logo="https://teleislas.com.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Teleislas
@@ -32,15 +28,13 @@ https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist
 #EXTINF:-1 tvg-id="TvExitos" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/hjR7V3MT/tvexitos.png" tvg-country="Republica Dominicana" tvg-url="" group-title="Música",TVExitos
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 #EXTINF:-1 tvg-id="Telepacifico" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/3rPg5pWf/Telepacifico.png" tvg-country="Colombia" tvg-url="" group-title="",Telepacifico
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="UAO_Play" tvg-name="" tvg-language="Spanish" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/UAOPlay-TV-en-vivo-Online.png" tvg-country="Colombia" tvg-url="" group-title="",UAO Play
-https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1 tvg-id="90_Digital" tvg-name="" tvg-language="Spanish" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/UAOPlay-TV-en-vivo-Online.png" tvg-country="Colombia" tvg-url="" group-title="Noticias",90 Digital
-https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8
+https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
 #EXTINF:-1 tvg-id="Senal_Colombia" tvg-name="" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-lFFrLCEOZL4/VNib88ifraI/AAAAAAAADoM/6fGCUE0KJCc/s1600/se%C3%B1al%2Bcolombia%2Bbola.png" tvg-country="Colombia" tvg-url="" group-title="Cultura",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesur" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" tvg-country="Venezuela" tvg-url="" group-title="Noticias",Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="DW_ESPANOL" tvg-name="" tvg-language="Spanish" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" tvg-country="España" tvg-url="" group-title="Noticias",DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RetroPlus" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/7Y2cpZpM/retroplus.png" tvg-country="España" tvg-url="" group-title="Noticias",Retro Plus Tv 3
@@ -53,8 +47,8 @@ https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Televen" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/8cp15rMv/televen.png" tvg-country="Venezuela" tvg-url="" group-title="Serie",Televen
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
-#EXTINF:-1 tvg-id="BeinSportXtra" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/NjdDKhXP/bein-sport-xtra.png" tvg-country="Katar" tvg-url="" group-title="Deporte",Bein Sports Xtra
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1 tvg-id="LaKalle" tvg-name="" tvg-language="Spanish" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/8fa632f/2147483647/strip/true/crop/1014x192+0+0/resize/951x180!/quality/75/?url=http%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fed%2F51%2Fcce149c3490684ae48a9a2248593%2Flogo-la-kalle-2.png" tvg-country="Colombia" tvg-url="" group-title="Deporte",La Kalle
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 #EXTINF:-1 tvg-id="AZTV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/qRXyFRnR/aztv.png" tvg-country="España" tvg-url="" group-title="Anime",AZTV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="teleritmo" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/nrY89qR2/teleritmo.png" tvg-country="México" tvg-url="" group-title="Música",Tele Ritmo
