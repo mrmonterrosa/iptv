@@ -65,5 +65,7 @@ https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 https://video.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 tvg-id="ewtn" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/L8RRmZJd/ewtn.png" tvg-country="Roma" tvg-url="" group-title="Religión",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="enlace" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.enlace.org/wp-content/uploads/2020/10/logoEnlace.png" tvg-country="Roma" tvg-url="" group-title="Religión",Enlace
+#EXTINF:-1 tvg-id="enlace" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.enlace.org/wp-content/uploads/2020/10/logoEnlace.png" tvg-country="EEUU" tvg-url="" group-title="Religión",Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tudn" tvg-name="" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKkmoVy_db_vYmUrzgIpSdrZKat4pWLPepwJjCQfMwg&s=10" tvg-country="Mexico" tvg-url="" group-title="Deportes",TUDN
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
