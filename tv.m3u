@@ -67,7 +67,9 @@ https://video.ejeserver.com/live/verteve.m3u8
 https://1211313014.rsc.cdn77.org/1211313014/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="enlace" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.enlace.org/wp-content/uploads/2020/10/logoEnlace.png" tvg-country="EEUU" tvg-url="" group-title="Religión",Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tudn" tvg-name="" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKkmoVy_db_vYmUrzgIpSdrZKat4pWLPepwJjCQfMwg&s=10" tvg-country="Mexico" tvg-url="" group-title="Deportes",TUDN
-http://45.5.117.57:8999/play/a04t/index.m3u8
+#EXTINF:-1 tvg-id="dsport2" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.librefutbol2.com/imge/directvsports2.webp" tvg-country="Mexico" tvg-url="" group-title="Deportes",DSport 2
+https://deportes.ksdjugfssddeports.com/playlist.php?id=7_&sig=4a3778e25907c05338cf7b1c5f9064524db26de41e65ff7df8a19e3bfc3ec221
 #EXTINF:-1 tvg-id="autenticatv" tvg-name="" tvg-language="Spanish" tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" tvg-country="Perú" tvg-url="" group-title="Entretenimiento",Autentica Tv
 https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="espn2" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.televiendo.com/imge/espn2.webp" tvg-country="España" tvg-url="" group-title="Deportes",Espn2
+https://deportes.ksdjugfssddeports.com/playlist.php?id=14_&sig=e231766ae8edac86649417c78c1f4eaec17f811784999d331f56892ee8c0ae51
