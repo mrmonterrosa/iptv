@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="evento" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/PxphDxZN/qt-q-95.webp" tvg-country="Colombia" tvg-url="" group-title="Deportes",Qatar 1
 https://dtvott-abc.akamaized.net/dash_live_1061/manifest.mpd
-#EXTINF:-1 tvg-id="TuUniverso_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/PxphDxZN/qt-q-95.webp" tvg-country="Colombia" tvg-url="" group-title="Religión",Tu Universo TV
+#EXTINF:-1 tvg-id="TuUniverso_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.tuuniversotv.net/sitepad-data/uploads/2024/03/TU-UNIVERSO-TV-CHANNEL-PNG-300x95.png" tvg-country="Colombia" tvg-url="" group-title="Religión",Tu Universo TV
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Avivamiento" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/tCVz1z8j/abn.png" tvg-country="Colombia" tvg-url="" group-title="Religión",Avivamiento
 https://s2.abntelevision.com/avivamientohd/avivamientohd/playlist.m3u8
@@ -10,11 +10,11 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Cali_TV_HD" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/zTFV9Tp7/IVi-Ue76-Xni-BVWI8aq4z-He02-Se-Gy-Dhte3-GIBepx-ZJ62ds-Xn7-QBZom-Og-Vkgr-DPg-PITSn-T76-VCpew-s900-c-k.jpg" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Cali TV
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal_Capital_HD" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.canalcapital.gov.co/sites/default/files/logo-canal-2020d.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Canal Capital HD
-https://live-hz-10.livepush.io/live_cdn/emEaBT1tXReBQwQF/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal_CNC_Medellin" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Canal CNC Medellin
-https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="Cosmovision" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/S3oXZHo.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Cosmovision
-https://videohls2.cosmovision.tv/hls/sd.m3u8
+https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8?_=1788488663743&dnt=true&player=6952e59cd2f34633db744de3&uid=fcWSgsxa74XvnIRMUEE57tp6dArMXvzE&sid=158dU0GCgLpEaAvBF4G1clfvOSlJLlRp&pid=kS0g79J47DkuIpNyuAdoOs6CMhfAi0ri&an=player-canal-capital&at=web-app&av=v1.0.101&sc=0&ref=mdstrm.com&res=1536x864&ext_pb=0&CMCD=cid%3D%226952dc88cb62083467eb6ab4%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22kS0g79J47DkuIpNyuAdoOs6CMhfAi0ri%22%2Csu
+#EXTINF:-1 tvg-id="Canal_CNC_Medellin" tvg-name="" tvg-language="Spanish" tvg-logo="https://canalcncmedellin.com/wp-content/uploads/2023/10/Logo-Canal-CNC-Barra-2.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Canal CNC Medellin
+https://tokenpanel.ddns.net/get-link/cncmedellinbrowser.m3u8
+#EXTINF:-1 tvg-id="Cosmovision" tvg-name="" tvg-language="Spanish" tvg-logo="https://coosmovision.com/wp-content/uploads/2025/09/isologo-cosmovision-Nuevo.svg" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Cosmovision
+https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 tvg-id="CTV_Barranquilla" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/phHdw4Y.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",CTV Barranquilla
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1206393675.m3u8
 #EXTINF:-1 tvg-id="CBN_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/ZKPKbW4L/cbn.png" tvg-country="Estados Unidos" tvg-url="" group-title="Religión",CBN Español
@@ -40,7 +40,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RetroPlus" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/7Y2cpZpM/retroplus.png" tvg-country="España" tvg-url="" group-title="Noticias",Retro Plus Tv 3
 https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TopLatino" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/fRvwQyY0/LOGO-TOP-LATINO-PNG-2017-500px.png" tvg-country="Perú" tvg-url="" group-title="Música",Top Latino
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/playlist.m3u8?wowzatokenstarttime=1788486329&wowzatokenendtime=1788487329&wowzatokenhash=WJQn3MWWhqZddTEZ67qcnck3AoMI7w6BjHR7n0SGnas=
 #EXTINF:-1 tvg-id="Novelisima" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/hj2k27WK/novelisima.png" tvg-country="Venezuela" tvg-url="" group-title="Serie",Novelisima
 https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Kanal_D" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/J4MTsz9q/Vive-Kanal-D.png" tvg-country="Estados Unidos" tvg-url="" group-title="Serie",Vive Kanal D
@@ -50,9 +50,9 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 #EXTINF:-1 tvg-id="AZTV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/qRXyFRnR/aztv.png" tvg-country="España" tvg-url="" group-title="Anime",AZTV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="teleritmo" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/nrY89qR2/teleritmo.png" tvg-country="México" tvg-url="" group-title="Música",Tele Ritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="amordiscos" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/NFqjNcK7/amordiscos.png" tvg-country="Colombia" tvg-url="" group-title="Música",Amordiscos
-https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=fcWSgsxa74XvnIRMUEE57tp6dArMXvzE&sid=D0KaxLwU98rjh7Ae2VrKXhErvvyDxl9V&pid=8KUzOheh45EBKEuwmwhJUl3qGh37vp4I&pid_dvr=yFHgMkHiLNN9vOyVGoaZnjEf9569yBC0&an=multimedios-radio-app-web&at=web-app&av=v7.0.106&ref=&res=1536x730&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%2257b4dc126338448314449d0c%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%228KUzOheh45EBKEuwmwhJUl3qGh37vp4I%22%2Csu
+#EXTINF:-1 tvg-id="sentimiento-vallenato" tvg-name="" tvg-language="Spanish" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mh5S26OiXRVMSrsjF7XSz4ywUq-YKnJYssqn02HuvaJdo=s900-c-k-c0x00ffffff-no-rj" tvg-country="Colombia" tvg-url="" group-title="Música",Sentimiento Vallenato
+https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
 #EXTINF:-1 tvg-id="tvsalud" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/nhKfmhqh/tvsalud.png" tvg-country="Chile" tvg-url="" group-title="Cultura",TV Salud
 https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
 #EXTINF:-1 tvg-id="topcine" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/dVD6rWbN/TopCine.png" tvg-country="Salvador" tvg-url="" group-title="Peliculas",Top Cine
@@ -65,5 +65,5 @@ https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 https://video.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 tvg-id="ewtn" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/L8RRmZJd/ewtn.png" tvg-country="Roma" tvg-url="" group-title="Religión",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="tycsport" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/L8RRmZJd/ewtn.png" tvg-country="Roma" tvg-url="" group-title="Deporte",TyC Sport
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
+#EXTINF:-1 tvg-id="enlace" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.enlace.org/wp-content/uploads/2020/10/logoEnlace.png" tvg-country="Roma" tvg-url="" group-title="Religión",Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
