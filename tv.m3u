@@ -40,7 +40,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RetroPlus" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/7Y2cpZpM/retroplus.png" tvg-country="España" tvg-url="" group-title="Noticias",Retro Plus Tv 3
 https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TopLatino" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/fRvwQyY0/LOGO-TOP-LATINO-PNG-2017-500px.png" tvg-country="Perú" tvg-url="" group-title="Música",Top Latino
-https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/playlist.m3u8?wowzatokenstarttime=1788486329&wowzatokenendtime=1788487329&wowzatokenhash=WJQn3MWWhqZddTEZ67qcnck3AoMI7w6BjHR7n0SGnas=
+https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/playlist.m3u8?wowzatokenstarttime=1788494237&wowzatokenendtime=1788495237&wowzatokenhash=bmad9B_YbO0pL5TBpF4aTPQg4utJoKbKUjcIBk_iCUY=
 #EXTINF:-1 tvg-id="Novelisima" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/hj2k27WK/novelisima.png" tvg-country="Venezuela" tvg-url="" group-title="Serie",Novelisima
 https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Kanal_D" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/J4MTsz9q/Vive-Kanal-D.png" tvg-country="Estados Unidos" tvg-url="" group-title="Serie",Vive Kanal D
