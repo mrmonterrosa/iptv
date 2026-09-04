@@ -26,7 +26,7 @@ https://livetv.305streamhd.com:3111/multi_live/play.m3u8
 #EXTINF:-1 tvg-id="Teleislas" tvg-name="" tvg-language="Spanish" tvg-logo="https://teleislas.com.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Teleislas
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
 #EXTINF:-1 tvg-id="TvExitos" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/hjR7V3MT/tvexitos.png" tvg-country="Republica Dominicana" tvg-url="" group-title="Música",TVExitos
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
 #EXTINF:-1 tvg-id="Telepacifico" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/3rPg5pWf/Telepacifico.png" tvg-country="Colombia" tvg-url="" group-title="",Telepacifico
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1 tvg-id="90_Digital" tvg-name="" tvg-language="Spanish" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/UAOPlay-TV-en-vivo-Online.png" tvg-country="Colombia" tvg-url="" group-title="Noticias",90 Digital
