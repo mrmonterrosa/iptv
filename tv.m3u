@@ -21,7 +21,7 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1206393675.m
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="Caracol" tvg-name="" tvg-language="Spanish" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/f6eaa77/2147483647/strip/true/crop/1130x1130+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fb9%2Fe9%2Fa9e8d7454e9291e948d0baea01c5%2Fgroup-6-2x.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Caracol
 https://co-e3-p-e-za1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/08cbb254-b9c4-4acd-a19b-0e983f67f2de:MRN2/variant/48215209b486b06c621f95db82dea5fe/bandwidth/2402400.m3u8
-#EXTINF:-1 tvg-id="Suram" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6d2fOjq.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Suram
+#EXTINF:-1 tvg-id="Suram" tvg-name="" tvg-language="Spanish" tvg-logo="https://suram.com.co/wp-content/uploads/2025/07/cropped-LOGO-SURAM-180x180.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Suram
 https://livetv.305streamhd.com:3111/multi_live/play.m3u8
 #EXTINF:-1 tvg-id="Teleislas" tvg-name="" tvg-language="Spanish" tvg-logo="https://teleislas.com.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Teleislas
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
@@ -53,8 +53,8 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=fcWSgsxa74XvnIRMUEE57tp6dArMXvzE&sid=D0KaxLwU98rjh7Ae2VrKXhErvvyDxl9V&pid=8KUzOheh45EBKEuwmwhJUl3qGh37vp4I&pid_dvr=yFHgMkHiLNN9vOyVGoaZnjEf9569yBC0&an=multimedios-radio-app-web&at=web-app&av=v7.0.106&ref=&res=1536x730&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%2257b4dc126338448314449d0c%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%228KUzOheh45EBKEuwmwhJUl3qGh37vp4I%22%2Csu
 #EXTINF:-1 tvg-id="sentimiento-vallenato" tvg-name="" tvg-language="Spanish" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mh5S26OiXRVMSrsjF7XSz4ywUq-YKnJYssqn02HuvaJdo=s900-c-k-c0x00ffffff-no-rj" tvg-country="Colombia" tvg-url="" group-title="Música",Sentimiento Vallenato
 https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
-#EXTINF:-1 tvg-id="tvsalud" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/nhKfmhqh/tvsalud.png" tvg-country="Chile" tvg-url="" group-title="Cultura",TV Salud
-https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
+#EXTINF:-1 tvg-id="eureka" tvg-name="" tvg-language="Spanish" tvg-logo="https://fileswp.canalcapital.gov.co/wp-content/uploads/2025/11/14095628/eureka_logo1.png" tvg-country="Colombia" tvg-url="" group-title="Cultura",Eureka
+https://co-e3-p-e-za1.cdn.mdstrm.com/live-stream/6952e02d19eabace52e2885f/publish/media_5000.m3u8?aid=694e81af27a64bef4f1ec07c&dnt=true&uid=fcWSgsxa74XvnIRMUEE57tp6dArMXvzE&sid=myCU5VIPdUM3nID8OBD4I7PuwV0vUeSz&pid=9IYWzdeaY70eoB1h8spnGCpHh2DvMYke&ref=mdstrm.com&ext_pb=0&es=co-e3-p-e-za1.cdn.mdstrm.com&ote=1788576985121&ot=YQZuzpHq3NkrMl4n6Dg39g&proto=https&pz=us&CMCD=cid%3D%226952e02d19eabace52e2885f%22%2Cmtp%3D144300%2Cot%3Dm%2Csf%3Dh%2Csid%3D%229IYWzdeaY70eoB1h8spnGCpHh2DvMYke%22%2Csu
 #EXTINF:-1 tvg-id="topcine" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/dVD6rWbN/TopCine.png" tvg-country="Salvador" tvg-url="" group-title="Peliculas",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="acuariotv" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/L4xqNp2R/acuariotv.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Acuario Tv
