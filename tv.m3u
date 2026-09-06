@@ -20,7 +20,7 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1206393675.m
 #EXTINF:-1 tvg-id="CBN_TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/ZKPKbW4L/cbn.png" tvg-country="Estados Unidos" tvg-url="" group-title="Religión",CBN Español
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="Caracol" tvg-name="" tvg-language="Spanish" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/f6eaa77/2147483647/strip/true/crop/1130x1130+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fb9%2Fe9%2Fa9e8d7454e9291e948d0baea01c5%2Fgroup-6-2x.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Caracol
-https://co-e3-p-e-za1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/08cbb254-b9c4-4acd-a19b-0e983f67f2de:MRN2/variant/48215209b486b06c621f95db82dea5fe/bandwidth/2402400.m3u8
+http://201.207.54.159:8000/play/a09o/index.m3u8
 #EXTINF:-1 tvg-id="Suram" tvg-name="" tvg-language="Spanish" tvg-logo="https://suram.com.co/wp-content/uploads/2025/07/cropped-LOGO-SURAM-180x180.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Suram
 https://livetv.305streamhd.com:3111/multi_live/play.m3u8
 #EXTINF:-1 tvg-id="Teleislas" tvg-name="" tvg-language="Spanish" tvg-logo="https://teleislas.com.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png" tvg-country="Colombia" tvg-url="" group-title="Entretenimiento",Teleislas
